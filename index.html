@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verificador de Código Python</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        .confidence-bar-container {
+            width: 100%;
+            background-color: #eee;
+            border-radius: 8px;
+            margin-top: 10px;
+            height: 20px;
+            overflow: hidden;
+        }
+        .confidence-bar {
+            height: 100%;
+            background-color: #4caf50;
+            width: 0%;
+            text-align: center;
+            color: white;
+            line-height: 20px;
+            transition: width 0.5s ease-in-out;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Verificador de Erros em Código Python</h1>
+        <textarea id="code-input" placeholder="Digite seu código Python aqui..."></textarea>
+        <button onclick="processCode()">Verificar</button>
+        <div id="result">
+            <h2>Resultado:</h2>
+            <pre id="output"></pre>
+
+            <div class="confidence-bar-container" id="confidence-container" style="display:none;">
+                <div class="confidence-bar" id="confidence-bar">0%</div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function processCode() {
+            const code = document.getElementById('code-input').value;
+
+            fetch('/process_code', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ code: code })
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('output').textContent = data.result;
+
+                // Extrair porcentagem do texto retornado
+                const match = data.result.match(/Confiança: (\d+(\.\d+)?)%/);
+                if (match) {
+                    const porcentagem = parseFloat(match[1]);
+                    const bar = document.getElementById('confidence-bar');
+                    bar.style.width = `${porcentagem}%`;
+                    bar.textContent = `${porcentagem.toFixed(2)}%`;
+                    document.getElementById('confidence-container').style.display = 'block';
+                } else {
+                    document.getElementById('confidence-container').style.display = 'none';
+                }
+            })
+            .catch(error => {
+                console.error(error);
+                document.getElementById('output').textContent = 'Erro ao processar o código.';
+                document.getElementById('confidence-container').style.display = 'none';
+            });
+        }
+    </script>
+</body>
+</html>
