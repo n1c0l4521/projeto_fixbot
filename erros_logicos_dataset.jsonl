@@ -1,0 +1,1000 @@
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "total = sum(1, 2, 3)\nprint(total)", "label": 1}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(x[3])", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a < b else b\n\nprint(maior(7, 3))", "label": 1}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "def quadrado(n):\n    return n * n + 1\n\nprint(quadrado(4))", "label": 1}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def fatorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * fatorial(n-1)\n\nprint(fatorial(5))", "label": 0}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def saudacao(nome):\n    return f'Olá, {nome}!'\n\nprint(saudacao('Ana'))", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def maior(a, b):\n    return a if a > b else b\n\nprint(maior(3, 7))", "label": 0}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def saudacao(nome):\n    return 'Olá!'\n\nprint(saudacao('Ana'))", "label": 1}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "for i in range(0):\n    print(i)", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
+{"code": "x = [1, 2, 3]\nprint(len(x))", "label": 0}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "for i in range(5):\n    print(i)", "label": 0}
+{"code": "def fatorial(n):\n    return n * fatorial(n-1)\n\nprint(fatorial(0))", "label": 1}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def quadrado(n):\n    return n ** 2\n\nprint(quadrado(4))", "label": 0}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "def inverter(lista):\n    return lista\n\nprint(inverter([1,2,3]))", "label": 1}
+{"code": "def soma(a, b):\n    return a + b\n\nprint(soma(3, 5))", "label": 0}
+{"code": "def inverter(lista):\n    return lista[::-1]\n\nprint(inverter([1,2,3]))", "label": 0}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def soma(a, b):\n    return a * b\n\nprint(soma(3, 5))", "label": 1}
+{"code": "def is_par(n):\n    return n % 2 == 0\n\nprint(is_par(4))", "label": 0}
+{"code": "total = sum([1, 2, 3])\nprint(total)", "label": 0}
+{"code": "def is_par(n):\n    return n % 2 == 1\n\nprint(is_par(4))", "label": 1}
